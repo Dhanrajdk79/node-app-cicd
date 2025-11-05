@@ -26,18 +26,18 @@ jenkins-node-cicd/
 ## Steps 
 1. lauching 2 ec2 instances
 (node-server)
-![Node-server](node3.PNG)
+![Node-server](images/node3.PNG)
 (Jenkins-server)
-![Node-server](node3.PNG)
+![Node-server](images/node4.PNG)
 2. create an nodejs file, jenkinsfile,
- ![Node-server](node3.PNG)
+ ![Node-server](images/node6.PNG)
 
 3. add and push the code to GIthub
-    ![Node-server](node3.PNG)
+    ![Node-server](images/node5.PNG)
 4. setup Jenkins and build the project
-   ![Node-server](node3.PNG)
+   ![Node-server](images/node2.PNG)
 
-5. Deployemen![Node-server](node3.PNG)
-t
+5. Deployement ![Node-server](images/node1.PNG)
+
 
 
